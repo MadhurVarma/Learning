@@ -1,0 +1,23 @@
+Set Up :
+
+Using Putty Gen , generate Public and Private key. - refer video 
+Set public in Web Git Hub account in Settings
+And Private will be set in Paegent later
+
+
+Steps:
+
+1.Go to github account - create repository  (and branch as needed)
+2. In windows machine start Pagent and add private key from C:\Users\user1\Documents\Java Workshop\Assignment 1\putty_private_key.ppk
+3. Go to the folder where you want to clone the project
+4. Copy ssh url from github repository (Under Code in Repository)
+5. Right click on folder inside which you want to get the repository.
+6. Click clone - paste ssh url then click "Ok" button
+7. Local Repository(clone) would be created, then go and update/add new file
+8. click on repository folder and then click on "Git Commit" button -- here option to put in main or branch can be selected
+9. put git commit message and then select the files to added/updated 
+10. click on "Commit & Push" button.
+
+Reference Video
+
+https://www.youtube.com/watch?v=fNPLuJTTto0 

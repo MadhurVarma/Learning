@@ -1,0 +1,30 @@
+open GIT bash
+
+git init
+git clone https://github.com/MadhurVarma/Demo.git
+cd Demo
+git status -- Main
+git checkout Practice
+git status --in branch
+put a text in notepad
+git add.	---- move to commit staging area
+
+$ git restore ----(to unstage) -- no need now
+git commi
+
+
+
+All commands
+============
+
+git init
+git clone <<clone URL>>
+cd <<folder name>>
+git status
+git checkout <<created branch name>>
+Make Code Changes
+git status
+git add .
+git status
+git commit
+git push

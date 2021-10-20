@@ -1,0 +1,20 @@
+initn in xml
+
+
+custome method
+interface
+
+
+
+contr
+settr
+init
+business logic
+destroy
+	
+
+@ Component
+@Bean -- creates bean 
+@ Configuration 	
+@application Context
+@ Autowired -- does no create object gets reference-- has a relaionship

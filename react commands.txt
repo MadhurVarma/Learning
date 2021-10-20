@@ -1,0 +1,19 @@
+
+
+node -version
+12.13
+npm -version
+5 and above can use npx
+
+npx create-react-app <Appname>
+
+package.json --like pom.xml
+script part - to write more commands we may use
+
+
+
+==============
+npm build
+npm start-- run application
+we
+

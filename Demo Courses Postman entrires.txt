@@ -1,0 +1,57 @@
+Add _PUT
+
+Link - http://localhost:8080/eduhub/Courses
+
+{
+    "courseid": 1,
+    "coursename": "Spring",
+    "coursedesc": "Sring Boot for Workshop",
+    "skillreqd": "MVC",
+    "createdon": "2021-07-14:05:00:01:123456",
+    "lastUpdatedon": "2021-07-14:05:01:01:123456"
+}
+
+
+{
+    "courseid": 2,
+    "coursename": "Java",
+    "coursedesc": "Java 8",
+    "skillreqd": "OOPs",
+    "createdon": "2021-07-14:05:10:01:123456",
+    "lastUpdatedon": "2021-07-14:05:11:01:123456"
+}
+
+{
+    "courseid": 3,
+    "coursename": "Mainframe",
+    "coursedesc": "Mainframe  Middleware",
+    "skillreqd": "COBOL",
+    "createdon": "2021-07-14:05:15:01:123456",
+    "lastUpdatedon": "2021-07-14:05:16:01:123456"
+}
+
+
+
+Update -Put
+
+Link -http://localhost:8080/eduhub/courses/1
+
+{
+    "courseid": 1,
+    "coursename": "Spring",
+    "coursedesc": "Sring Boot for Workshop",
+    "skillreqd": "MVC",
+    "createdon": "2021-07-14:05:00:01:123456",
+    "lastUpdatedon": "2021-07-14:05:01:01:123456"
+}
+
+
+
+
+Delete - http://localhost:8080/eduhub/courses/1
+
+No text
+
+
+
+
